@@ -5,7 +5,7 @@
 
 # set working directory
 
-setwd("C:\\CourseProject")
+# setwd("C:\\CourseProject")
 
 # The commented lines below are not necessary to rerun once the data set has been downloaded and extracted.
 #
